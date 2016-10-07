@@ -1,1 +1,6 @@
 www.bugmeeditor.com
+~ $ gem install jekyll bundlers
+~ $ jekyll New my-new-awesome-website
+~ $ CD my-awesome-website
+~/ my-awesome-website $ bundlers exec jekyll serve
+# => now browse to http://localhost:4000
