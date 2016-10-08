@@ -6,3 +6,5 @@ sethtml=inspect
 var=java
 layouts.generate.money
 html.inspect.money.web.edit
+insert.http://bugmenot.com.package
+server.inspect.lun{Android.package.var
