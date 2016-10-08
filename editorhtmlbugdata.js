@@ -7,4 +7,5 @@ var=java
 layouts.generate.money
 html.inspect.money.web.edit
 insert.http://bugmenot.com.package
-server.inspect.lun{Android.package.var
+server.inspect.link
+Android.package.var
