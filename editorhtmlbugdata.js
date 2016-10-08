@@ -10,3 +10,4 @@ insert.http://bugmenot.com/.package
 server.inspect.link
 Android.package.var
 http://androidhacksapk.com
+http://java.com
